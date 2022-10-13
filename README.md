@@ -3,3 +3,5 @@ A project using HTML and CSS where if we click on the food name will take us dir
 
 This is a very basic project with HTML bookmarking feature used as a main highlight.
 Behind the scenes, I have used scrolling effect everywhere.
+
+*Pease download the image files to see the webpage images.*
